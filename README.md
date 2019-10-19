@@ -1,4 +1,4 @@
-# appVentaCursos
+﻿# appVentaCursos
 ### Base de datos
 El nombre de la base de datos será VENTA_CURSO.
 Estructura y descripción de tablas
@@ -24,3 +24,9 @@ Para establecer las relaciones debe tener en cuenta lo siguiente:
 - Un persona de tipo de estudiante se puede registrar ninguna, una o muchas veces en los cursos.
 - Una oferta de curso puede estar en 0, 1 o muchas veces inscripciones.
 - Un empleado puede ser ascendido o irse de la empresa ninguna, una o muchas veces
+
+### Schema
+-Contiene la estructura de la base de datos del taller
+
+### DATA
+-Contiene 5 datos por cada tabla
